@@ -1,14 +1,19 @@
 """
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TwelfthDoctor1's Developer/Debug Access Panel
+LordPercivalXII's Developer/Debug Access Panel
 
 > ModuleHandler Tuning
 
-(C) Copyright TD1 & TWoCC 2020 - 2021
+(C) Copyright L.P. XII - TD1 & TWoCC 2020 - 2026
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Licensed under CC-BY-NC-ND 4.0
+Licensed under MIT License
 
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Codes from other parties are not part of the License and Copyright.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -587,7 +592,7 @@ class TD1AccessPanelModuleHandler:
         default=''
     )
     notification_ran = False
-    mod_version = 'Developer Version 31 Build'
+    mod_version = 'Developer Version 32.1 Build'
 
 
 # Command Handling Section
